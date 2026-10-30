@@ -1,6 +1,5 @@
 <script setup>
 import { ref } from 'vue'
-
 const escuro = ref(false)
 
 function alternarTema() {
